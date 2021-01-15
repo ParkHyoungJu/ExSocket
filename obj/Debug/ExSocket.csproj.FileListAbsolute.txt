@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\ExSocket\ExSocket\bin\Debug\ExSocket.exe.config
+C:\Users\Administrator\source\repos\ExSocket\ExSocket\bin\Debug\ExSocket.exe
+C:\Users\Administrator\source\repos\ExSocket\ExSocket\bin\Debug\ExSocket.pdb
+C:\Users\Administrator\source\repos\ExSocket\ExSocket\obj\Debug\ExSocket.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ExSocket\ExSocket\obj\Debug\ExSocket.Form1.resources
+C:\Users\Administrator\source\repos\ExSocket\ExSocket\obj\Debug\ExSocket.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ExSocket\ExSocket\obj\Debug\ExSocket.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ExSocket\ExSocket\obj\Debug\ExSocket.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ExSocket\ExSocket\obj\Debug\ExSocket.exe
+C:\Users\Administrator\source\repos\ExSocket\ExSocket\obj\Debug\ExSocket.pdb
